@@ -9,5 +9,4 @@ end
 array
 end
 collection = [1, 2, 3, 4]
-my_each(array){|i| puts i}
-my_each(collection)
+my_each(collection){|i|  i}
